@@ -1,0 +1,16 @@
+{
+  "name": "bedu-node",
+  "version": "0.1.0",
+  "description": "A node.js app",
+  "scripts": {
+    "start": "nodemon ./app/index.js"
+  },
+  "author": "Javier Diaz",
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
